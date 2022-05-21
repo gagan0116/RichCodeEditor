@@ -1,1 +1,0 @@
-web: js js/ide.js
