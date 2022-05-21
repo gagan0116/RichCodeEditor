@@ -1,1 +1,1 @@
-web: js/ide.js
+web: js js/ide.js
